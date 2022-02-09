@@ -1,0 +1,13 @@
+.child {
+    height: 700px;
+    width: 600px;
+    margin: 10px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.text {
+    color: rgb(243, 104, 201);
+}
